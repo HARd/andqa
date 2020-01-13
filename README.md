@@ -1,4 +1,4 @@
-Yaroslav Android testing samples
+Android testing samples
 ===================================
 
 - Android SDK v23
